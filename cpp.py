@@ -1,7 +1,7 @@
 import os
 import shutil
 
-
+# Create directory name "destination" in the folder from where script is executing
 def list_items_in_directory(directory_path):
     try:
        
